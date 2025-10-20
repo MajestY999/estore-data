@@ -131,7 +131,7 @@
     "shortDescription": "Телевизор 4K Ultra HD для полного погружения.",
     "description": "OLED 55\" 120 Гц, Google TV, HDMI 2.1 (x4), Dolby Vision, Wi-Fi 6.",
     "images": [
-      "https://raw.githubusercontent.com/MajestY999/estore-data/main/4k-tv.png"
+      "https://raw.githubusercontent.com/MajestY999/estore-data/main/tv.png"
     ],
     "categories": ["TV"],
     "tags": ["oled", "120hz", "google-tv"],
